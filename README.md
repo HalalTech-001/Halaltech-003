@@ -9,7 +9,7 @@ Energy Consumption Analysis
 •Variables
 •Data Types (String, Integer, Float, Boolean)
 •Arithmetic Operators
-•Assignment Operators
+•Assignment Operator
 •Comparison Operators
 •Logical Operators (and, or,not)
 •Variable assignment 
