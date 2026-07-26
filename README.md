@@ -8,7 +8,7 @@ The Energy Consumption Analysis System is a Python-based project developed to an
 • Arithmetic Operator 
 • Assignment Operator 
 • Logical Operator(And, Or, Not)
-# Features 
+# Features
 • Stores facility and energy consumption data using meaningful variables.
 • Calculates the increase in daily energy consumption.
 • Computes the percentage increase in energy usage.
